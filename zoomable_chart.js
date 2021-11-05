@@ -98,7 +98,7 @@ chart = {
 
 
 
-data = FileAttachment("flare-2.json").json()
+data = FileAttachment("data.json").json()
 
 
 
